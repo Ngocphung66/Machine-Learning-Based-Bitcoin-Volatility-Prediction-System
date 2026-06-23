@@ -1,0 +1,4 @@
+Model,Test,Train,Validation
+Hybrid LSTM-RF,1.0,1.0,0.9545454545454546
+Pure LSTM,1.0,1.0,1.0
+Pure Random Forest,1.0,1.0,1.0

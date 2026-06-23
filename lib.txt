@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+ccxt
+yfinance 
+xgboost 
+TA-Lib
+vaderSentiment
+requests
+gnews
+shap
+pandas-datareader 
+fredapi 

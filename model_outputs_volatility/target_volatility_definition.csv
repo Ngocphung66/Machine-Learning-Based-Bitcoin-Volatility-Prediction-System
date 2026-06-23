@@ -1,0 +1,5 @@
+Item,Value
+VOLATILITY_QUANTILE,0.75
+tau_vol,0.03310004713411871
+Target_1_Definition,Future_Volatility > tau_vol
+Target_0_Definition,Future_Volatility <= tau_vol
