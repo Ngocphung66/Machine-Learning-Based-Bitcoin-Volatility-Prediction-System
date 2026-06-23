@@ -10,7 +10,8 @@ The project formulates volatility forecasting as a **binary time-series classifi
 
 The objective is **volatility risk monitoring and decision support**, not automated trading or price-direction prediction.
 
-<img width="1122" height="1402" alt="Research Stage" src="https://github.com/user-attachments/assets/9a4f2956-0157-42ba-9d05-dfe4c8671c9e" />
+<img width="1086" height="1449" alt="1 5 Quy trình triển khai" src="https://github.com/user-attachments/assets/f65a0922-1c0f-41a8-97ab-9faf08332704" />
+
 
 
 ---
@@ -127,6 +128,9 @@ The Random Forest model evaluates the predictive contribution of sentiment and m
 
 The LSTM model is designed to learn sequential patterns from technical indicators.
 
+<img width="1812" height="868" alt="2 7" src="https://github.com/user-attachments/assets/d5c1715c-bc51-4ef2-af8d-36ea986cbdf7" />
+
+
 **Input features**
 
 - 26 technical indicators
@@ -148,6 +152,9 @@ The LSTM model is designed to learn sequential patterns from technical indicator
 ### Model 3 — Hybrid LSTM–Random Forest
 
 The hybrid model combines the LSTM probability with sentiment and macroeconomic variables.
+
+<img width="1672" height="941" alt="1 3" src="https://github.com/user-attachments/assets/fc6a2d25-bc10-42eb-a6fb-fe75bac2132b" />
+
 
 **Input features**
 
